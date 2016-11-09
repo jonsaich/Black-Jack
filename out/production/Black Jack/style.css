@@ -1,0 +1,59 @@
+#signIn {
+    -fx-text-fill: white;
+    -fx-font: 20px "Arial";
+    -fx-background-color: #494545;
+     -fx-font-weight: bold;
+     -fx-border-radius: 10 10 10 10;
+     -fx-background-radius: 10 10 10 10;
+}
+
+#pw {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-font: 15px "Arial";
+    -fx-text-fill: white;
+    -fx-border-radius: 10 10 10 10;
+     -fx-background-radius: 10 10 10 10;
+}
+
+#un {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-font: 15px "Arial";
+    -fx-text-fill: white;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+#playBJButton {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-font: 25px "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+#lbButton {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-font: 25px "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+#logoutButton {
+    -fx-font: 15px "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+#playButtons {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-font: 14px "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
